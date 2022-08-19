@@ -12,7 +12,7 @@ body{
     --hover-color: #2196F3;
 }
 
-.link{
+.link-first{
     color: var(--text-color-black);
     font-size: 14px;
     line-height: 1.4;
@@ -21,7 +21,7 @@ body{
     letter-spacing: 0.02em;
 }
 
-.link-2{
+.link-second{
     color: var( --text-color-main);
     font-size: 14px;
     line-height: 1.1;
@@ -30,7 +30,7 @@ body{
     letter-spacing: 0.02em;
 }
 
-.link-3{
+.link-third{
     color: var( --text-color-main);
     font-size: 14px;
     line-height: 1.7;
@@ -49,16 +49,16 @@ body{
     letter-spacing: 0.03em;
 }
 
-.link:hover{
+.link-first:hover{
     color: var(--hover-color);
 }
 
-.link-2:hover{
+.link-second:hover{
     color: var(--hover-color);
 }
 
 .btn-portfolio{
-    background-color: var( --background-color-lightgrey);
+    background-color: var(--background-color-lightgrey);
     color: var(--text-color-black);
     font-size: 16px;
     line-height: 1.2;
@@ -112,7 +112,7 @@ body{
     color: var(--text-color-black);
 }
 
-.black-title-lorem{
+.black-title-second{
     color: var(--text-color-black);
     font-size: 14px;
     line-height: 1.2;
@@ -120,7 +120,7 @@ body{
     text-transform: uppercase;
 }
 
-.paragraph-lorem{
+.paragraph-first{
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
